@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashokmurthy13
 - 👀 I’m interested in Distributed Systems
 - 🌱 I’m currently learning Apache Spark
-- 📫 You can reach me @ ashokwatchit@gmail.com
+- 📫 You can reach me @ ashokmurthy.jp@gmail.com
 
 <!---
 ashokmurthy13/ashokmurthy13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
