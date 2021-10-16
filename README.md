@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashokmurthy13
 - 👀 I’m interested in Distributed Systems
-- 🌱 I’m currently learning Apache Spark
+- 🌱 I’m currently learning Python, Docker, AWS
 - 📫 You can reach me @ ashokmurthy.jp@gmail.com
 
 <!---
