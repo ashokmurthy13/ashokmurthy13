@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashokmurthy13
-- 👀 I’m interested in Distributed Systems
+- 👀 I’m interested in Distributed Systems, Machine Learning
 - 🌱 I’m currently learning Python, Docker, AWS
 - 📫 You can reach me @ ashokmurthy.jp@gmail.com
 
