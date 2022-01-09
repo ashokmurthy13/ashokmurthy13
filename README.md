@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashokmurthy13
 - 👀 I’m interested in Distributed Systems, Machine Learning
-- 🌱 I’m currently learning Python, Docker, AWS
+- 🌱 I’m currently learning AWS, Kubernetes
 - 📫 You can reach me @ ashokmurthy.jp@gmail.com
 
 <!---
