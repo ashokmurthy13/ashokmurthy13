@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashokmurthy13
-- 👀 I’m interested in Distributed Systems, Payments, Card Processing
+- 👀 I’m interested in Distributed Systems, Payment Processing
 - 🌱 I’m currently learning AWS, Kubernetes
 - 📫 You can reach me @ ashokmurthy88@gmail.com
 
